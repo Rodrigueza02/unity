@@ -9,3 +9,4 @@ public class MovimientoSimple : MonoBehaviour
         transform.Translate(x, 0, z);
     }
 }
+
